@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchtext
+datasets
+transformers
+nltk
+rouge_score
+matplotlib
+numpy
+tqdm
+pandas
+
+flask
+flask-cors

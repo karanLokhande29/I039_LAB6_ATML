@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pt
+*.pkl
+*.zip
+*.csv
+.DS_Store
+frontend/node_modules/
+frontend/dist/
+.env
