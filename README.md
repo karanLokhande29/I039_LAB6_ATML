@@ -3,8 +3,7 @@
 **Course:** Advanced Topics in Machine Learning  
 **Program:** B.Tech AI — Semester VI  
 **Institute:** SVKM's NMIMS, Mukesh Patel School of Technology Management & Engineering  
-**Faculty:** Dr. Ami Munshi  
-**Student:** Karan Lokhande | Roll No: I039
+
 
 ---
 
@@ -21,7 +20,6 @@ End-to-end implementation of Encoder-Decoder Architecture for Machine Translatio
 | 1 | English → Hindi Translation (LSTM Seq2Seq) | 300 | ✅ Complete |
 | 2 | Performance Analysis and Evaluation | — | ✅ Complete |
 | 3 | English → Spanish Translation (Bahdanau Attention) | 150 | ✅ Complete |
-| 4 | Text Summarization | — | ⏭️ Skipped |
 
 ---
 
